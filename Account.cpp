@@ -1,8 +1,3 @@
-#include<iostream>
-#include<windows.h>
-
-using namespace std;
-
 class Account
 {
 	private:
