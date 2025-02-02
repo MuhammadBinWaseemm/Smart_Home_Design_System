@@ -9,7 +9,7 @@ Main Files
 System.cpp is the main file that drives the program.
 Accounts.cpp is a supplementary file for managing user account creation. It does not function independently.
 
-# Audio Files
+Audio Files
 
 .wav files are included for sound effects and are compatible with Dev-C++. Compatibility with other IDEs, such as Visual Studio, is not guaranteed.
 Setup Instructions
