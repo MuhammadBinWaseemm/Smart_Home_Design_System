@@ -8,16 +8,15 @@ Main Files
 
 System.cpp is the main file that drives the program.
 Accounts.cpp is a supplementary file for managing user account creation. It does not function independently.
-Audio Files
+
+# Audio Files
 
 .wav files are included for sound effects and are compatible with Dev-C++. Compatibility with other IDEs, such as Visual Studio, is not guaranteed.
 Setup Instructions
 
 Download System.cpp, Accounts.cpp, and the .wav files to your system.
-Ensure the .wav files are placed in a directory of your choice and update the file paths in the code. For example:
-cpp
-Copy
-Edit
+Ensure the .wav files are placed in a directory of your choice and update the file paths in the code. 
+For example:
 PlaySound(TEXT("C:/Users/PC/Downloads/User.wav"), NULL, SND_FILENAME | SND_SYNC);
 Replace the file path with the location of the .wav file on your system. Placing them in the Downloads folder will minimize changes.
 Configuring Sound in Dev-C++
